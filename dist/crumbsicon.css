@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'crumbsicon';
+  src:  url('fonts/crumbsicon.eot?6hd74x');
+  src:  url('fonts/crumbsicon.eot?6hd74x#iefix') format('embedded-opentype'),
+    url('fonts/crumbsicon.ttf?6hd74x') format('truetype'),
+    url('fonts/crumbsicon.woff?6hd74x') format('woff'),
+    url('fonts/crumbsicon.svg?6hd74x#crumbsicon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="ci-"], [class*=" ci-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'crumbsicon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ci-plus:before {
+  content: "\e900";
+}
+.ci-plus-circle:before {
+  content: "\e901";
+}
+.ci-plus-square:before {
+  content: "\e902";
+}
