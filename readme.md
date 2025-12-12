@@ -6,4 +6,7 @@ V 2.0 (11/09/2025)
 - contains 3204 icons
 
 V 2.1 (05/11/2025)
-- add icon "star-half" adn "star-filled"
+- add icon "star-half" and "star-filled"
+
+V 2.2 (12/12/2025)
+- add new 41 icons. 32 shopping icons, 3 files icons and 6 bookmark icons.
